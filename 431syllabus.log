@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  26 AUG 2017 11:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  26 AUG 2017 16:35
 entering extended mode
 **431syllabus.tex
 (C:\Users\Thomas\Dropbox\2017-431\431syllabus\431syllabus.tex
@@ -916,50 +916,59 @@ Chapter 2.
 
 ]
 Chapter 3.
-[13] [14
 
-]
+Underfull \hbox (badness 4048) in paragraph at lines 721--723
+[]\T1/lmr/m/n/10 (+20) Complete in-struc-tions, with a step-by-step walk-throug
+h, are avail-able at []$https : / / github . com /
+ []
+
+
+Underfull \vbox (badness 3482) has occurred while \output is active []
+
+[13] [14]
 Chapter 4.
-[15] [16] [17] [18
+[15
+
+] [16] [17] [18
 
 ]
 Chapter 5.
-<figures/Love-picB.jpg, id=323, 92.91856pt x 123.89143pt>
+<figures/Love-picB.jpg, id=330, 92.91856pt x 123.89143pt>
 File: figures/Love-picB.jpg Graphic file (type jpg)
 <use figures/Love-picB.jpg>
-Package pdftex.def Info: figures/Love-picB.jpg used on input line 1002.
+Package pdftex.def Info: figures/Love-picB.jpg used on input line 1046.
 (pdftex.def)             Requested size: 92.91832pt x 123.89111pt.
 [19 <C:/Users/Thomas/Dropbox/2017-431/431syllabus/figures/Love-picB.jpg>] [20]
 Chapter 6.
-<figures/Claudia.png, id=361, 752.8125pt x 1339.0025pt>
+<figures/Claudia.png, id=368, 752.8125pt x 1339.0025pt>
 File: figures/Claudia.png Graphic file (type png)
 <use figures/Claudia.png>
-Package pdftex.def Info: figures/Claudia.png used on input line 1172.
+Package pdftex.def Info: figures/Claudia.png used on input line 1216.
 (pdftex.def)             Requested size: 155.01677pt x 275.72318pt.
 [21
 
  <C:/Users/Thomas/Dropbox/2017-431/431syllabus/figures/Claudia.png>] <figures/O
-mar.jpg, id=366, 2409.0pt x 3011.25pt>
+mar.jpg, id=373, 2409.0pt x 3011.25pt>
 File: figures/Omar.jpg Graphic file (type jpg)
 <use figures/Omar.jpg>
-Package pdftex.def Info: figures/Omar.jpg used on input line 1188.
+Package pdftex.def Info: figures/Omar.jpg used on input line 1232.
 (pdftex.def)             Requested size: 155.00989pt x 193.76236pt.
-<figures/Kara.jpg, id=367, 116.23425pt x 146.949pt>
+<figures/Kara.jpg, id=374, 116.23425pt x 146.949pt>
 File: figures/Kara.jpg Graphic file (type jpg)
 <use figures/Kara.jpg>
-Package pdftex.def Info: figures/Kara.jpg used on input line 1204.
+Package pdftex.def Info: figures/Kara.jpg used on input line 1248.
 (pdftex.def)             Requested size: 116.24103pt x 146.9576pt.
 [22 <C:/Users/Thomas/Dropbox/2017-431/431syllabus/figures/Omar.jpg> <C:/Users/T
 homas/Dropbox/2017-431/431syllabus/figures/Kara.jpg>] <figures/Rosie.jpg, id=37
-2, 326.72063pt x 493.0922pt>
+9, 326.72063pt x 493.0922pt>
 File: figures/Rosie.jpg Graphic file (type jpg)
 <use figures/Rosie.jpg>
-Package pdftex.def Info: figures/Rosie.jpg used on input line 1218.
+Package pdftex.def Info: figures/Rosie.jpg used on input line 1262.
 (pdftex.def)             Requested size: 155.01941pt x 233.95789pt.
-<figures/Bob.jpg, id=373, 237.88875pt x 357.335pt>
+<figures/Bob.jpg, id=380, 237.88875pt x 357.335pt>
 File: figures/Bob.jpg Graphic file (type jpg)
 <use figures/Bob.jpg>
-Package pdftex.def Info: figures/Bob.jpg used on input line 1234.
+Package pdftex.def Info: figures/Bob.jpg used on input line 1278.
 (pdftex.def)             Requested size: 155.02513pt x 232.86476pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -986,22 +995,22 @@ Chapter 10.
 ]
 Chapter 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1522--1524
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1568
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1537--1542
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1586
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1549
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1593
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1551--1553
+Underfull \hbox (badness 10000) in paragraph at lines 1595--1597
 
  []
 
@@ -1011,24 +1020,24 @@ Chapter 12.
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 1705.
+(Font)              <8> on input line 1749.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 1705.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1708.
+(Font)              <6> on input line 1749.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1752.
 [36]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1708.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1752.
 (C:\Users\Thomas\Dropbox\2017-431\431syllabus\431syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1708.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1708.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1752.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1752.
 
 Package rerunfilecheck Info: File `431syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: D0298AE3EFC564D4DB2B6CA16890CF91;6269.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1708.
+(rerunfilecheck)             Checksum: CBD13245531805E767C8BA83B7A340DD;6426.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1752.
  ) 
 Here is how much of TeX's memory you used:
- 12722 strings out of 493705
- 183664 string characters out of 3142148
- 294171 words of memory out of 3000000
+ 12724 strings out of 493705
+ 183705 string characters out of 3142148
+ 294201 words of memory out of 3000000
  15581 multiletter control sequences out of 15000+200000
  80983 words of font info for 116 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -1047,9 +1056,9 @@ lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 431syllabus.pdf (36 pages, 7584978 bytes).
+Output written on 431syllabus.pdf (36 pages, 7591987 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 166 named destinations out of 1000 (max. 500000)
+ 587 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
  16692 words of extra memory for PDF output out of 17280 (max. 10000000)
 
