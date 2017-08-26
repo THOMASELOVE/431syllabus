@@ -187,9 +187,11 @@ With regard to The Signal and the Noise, you can watch Nate discuss the book's i
     + [Reading academic (scientific) papers](https://github.com/jtleek/readingpapers),
     + [Writing your first academic paper](https://github.com/jtleek/firstpaper)
     + [Write papers like a modern scientist](https://simplystatistics.org/2016/04/21/writing/)
-2. A few of the articles from the Ten Simple Rules series at PLOS Computational Biology, specifically
+2. A few of the articles from the Ten Simple Rules series at PLOS Computational Biology may be of interest, specifically
     + [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961) by Kass RE Caffo BS Davidian M et al 2016
+    + [Ten Simple Rules for Graduate Students](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Gu J Bourne PE 2007
     + [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier NP Droettboom M Bourne PE 2014
+    + [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525) by Michener WK
     + [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) by Sandve GK Nekrutenko A Taylor J Hovig E 2013
 3. The American Statistical Association's [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose
     + We'll also look at some of the Supplemental Material found at that link.
@@ -397,6 +399,12 @@ More information is coming here.
 9. Late work is inappropriate for graduate school. Failure to turn in an assignment within one hour of the deadline (all deadlines are noon) will result in a very poor grade on the assignment if it is (eventually) turned in, and a zero (from which it is difficult to recover) if it is not turned in. Submission of timely, but partial work is far better than no submission at all.
 10. If an assignment is scheduled so that you will not be able to complete it in a timely fashion, it is your responsibility to email Dr. Love about the situation so he can evaluate it. Such requests should be sent as soon as possible, and at least 48 hours prior to the deadline for the assignment, except, of course, in the case of truly horrific circumstances.
 11. Grades on Assignments are usually available one week after the submission deadline.
+
+# Final Portfolio Project
+
+## More to come.
+
+More information is coming here.
 
 # A Few Writing/Presenting Tips
 
