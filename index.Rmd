@@ -158,8 +158,8 @@ If you need more help, you might look at [this terrific resource for Installing 
 
 In brief, the steps you need to take for 431 are:
 
-1. Download and install the latest version of R (version 3.4.1 or later) at http://cran.case.edu/ or https://cran.r-project.org/
-2, Download and install the preview version of R Studio (version 1.1.345 or later) at https://www.rstudio.com/products/rstudio/download/preview/
+1. Download and install the latest version of R (version 3.4.1 or later) at http://cran.case.edu/ or https://cran.r-project.org/.
+2. Download and install the preview version of R Studio (version 1.1.345 or later) at https://www.rstudio.com/products/rstudio/download/preview/.
 3. Install some R packages - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. To install the packages for our course, open R Studio and run these commands.
 
 ```
@@ -207,11 +207,11 @@ With regard to The Signal and the Noise, you can watch Nate discuss the book's i
 
 ### Textbooks
 
-1. OpenIntro Statistics (OpenStats) by David Diez, Christopher Barr and Mine Cetinkaya-Rundel, download at https://www.openintro.org/stat/textbook.php?stat_book=os - This is an excellent resource, with lots of useful information set at a reasonably elementary level.
+1. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) (OpenStats) by David Diez, Christopher Barr and Mine Cetinkaya-Rundel. This is an excellent resource, with lots of useful information set at a reasonably elementary level.
     + In Part A of the course, you'll want to look at Chapters 1 and 3, in particular.
     + Part B: Chapters 4, 5, 6
     + Part C: Chapters 7, 8
-2. R for Data Science (R4DS) by Garrett Grolemund and Hadley Wickham, which may be read at http://r4ds.had.co.nz/ - this is a truly great resource, but may feel a little advanced for those of you brand new to coding, who may want to supplement it.
+2. [R for Data Science](http://r4ds.had.co.nz/) (R4DS) by Garrett Grolemund and Hadley Wickham - this is a great resource, but may feel a little advanced for those of you brand new to coding, who may want to supplement it.
     + In Part A, we'll discuss ideas from the Introduction and Explore sections, mostly. 
     + Parts B and C will address some issues discussed in the Wrangle, Model and Communicate sections.
 3. Practical Regression and ANOVA using R, by Julian J. Faraway, (Faraway) which is one of the "More Free Books" to download at https://www.openintro.org/stat/extras.php. Also uses R, but much more focused on statistical issues. A more formal presentation is in Linear Models with R, Second Edition by Julian J. Faraway (Chapman and Hall / CRC Texts in Statistical Science) ISBN-13: 978-1439887332. But the free text is sufficient for 431 and, probably 432. 
@@ -220,21 +220,21 @@ With regard to The Signal and the Noise, you can watch Nate discuss the book's i
 ### Articles
 
 1. Several of the guides prepared by Jeff Leek and his group, including:
-    + [Finally, a Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/)
+    + [Finally, a Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/), from fivethirtyeight.com
     + [How to share data with a statistician](https://github.com/jtleek/datasharing),
     + [Reading academic (scientific) papers](https://github.com/jtleek/readingpapers),
     + [Writing your first academic paper](https://github.com/jtleek/firstpaper)
     + [Write papers like a modern scientist](https://simplystatistics.org/2016/04/21/writing/)
-2. A few of the articles from the Ten Simple Rules series at PLOS Computational Biology may be of interest, specifically
-    + [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961) by Kass RE Caffo BS Davidian M et al 2016
+2. Part of the Ten Simple Rules series at PLOS Computational Biology, specifically
+    + [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961) by Kass RE et al. 2016
     + [Ten Simple Rules for Graduate Students](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Gu J Bourne PE 2007
     + [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier NP Droettboom M Bourne PE 2014
-    + [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525) by Michener WK
-    + [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) by Sandve GK Nekrutenko A Taylor J Hovig E 2013
+    + [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525) by Michener WK 2015
+    + [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) by Sandve GK et al. 2013
 3. The American Statistical Association's [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose
-    + We'll also look at some of the Supplemental Material found at that link.
-4. The preprint from Benjamin D Berger J Johannesson M et al. called "[Redefine statistical significance](https://psyarxiv.com/mky9j/)", which proposes to change the default p-value threshold for statistical significance for claims of new discoveries from 0.05 to 0.005. The manuscript will eventually appear in the journal Nature Human Behavior.
-    + Also you'll want to look at Kelly Servick's related article "[It will be much harder to call new findings 'significant' if this team gets its way](http://www.sciencemag.org/news/2017/07/it-will-be-much-harder-call-new-findings-significant-if-team-gets-its-way)" from Science, 2017-07-25, which comments on the preprint.
+    + We'll also look at some of the [Supplemental Material](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108).
+4. The preprint from Benjamin D Berger J Johannesson M et al. called "[Redefine statistical significance](https://psyarxiv.com/mky9j/)", which proposes to change the default p-value threshold for statistical significance for claims of new discoveries from 0.05 to 0.005. The manuscript will eventually appear in the journal *Nature Human Behavior*.
+    + Kelly Servick's related article "[It will be much harder to call new findings 'significant' if this team gets its way](http://www.sciencemag.org/news/2017/07/it-will-be-much-harder-call-new-findings-significant-if-team-gets-its-way)" from Science, 2017-07-25, comments on the preprint.
 
 ## Supplemental (and Free) Texts That May Be Worth Your Time
 
@@ -275,9 +275,9 @@ Lots of people like to watch a video to learn things. Here are some of the many 
 ## Podcasts
 
 1. [Not So Standard Deviations: The Data Science Podcast](https://soundcloud.com/nssd-podcast) with Hilary Parker and Roger Peng talking about the latest in data science and data analysis in academia and industry.
-2. [The Effort Report](http://effortreport.libsyn.com/) with Elizabeth Matsui and Roger Peng talking about life in the academic trenches, telling it "like it is". Every graduate student in this course would benefit from listening.
+2. [The Effort Report](http://effortreport.libsyn.com/) with Elizabeth Matsui and Roger Peng talking about life in the academic trenches, telling it "like it is". Every graduate student in this course looking at a career in academia would benefit from listening.
 
-## Web Sites and Blogs
+## A Few Web Sites and Blogs
 
 1. [FiveThirtyEight](http://fivethirtyeight.com/)
 2. [Andrew Gelman's Blog: Statistical Modeling, Causal Inference and Social Science](http://andrewgelman.com/)
@@ -311,24 +311,24 @@ Thomas E. Love, Ph.D.
 - Thomas dot Love at case dot edu (for matters related to grades or individual concerns)
 - Dr. Love is hard to reach by phone. Email is always the best way to reach him.
 
-### Office {-}
+### Offices {-}
 
 - Wood WG-82L on the ground floor of the Wood building (Tuesdays and Thursdays)
 - Rammelkamp R-229A at MetroHealth Medical Center (Wednesdays and Fridays)
 
-Dr. Love is generally available before and after class, otherwise by appointment (send email to schedule). 
+Dr. Love is generally available before and after class, otherwise by appointment on Tuesdays and Thursdays (send email to schedule). 
 
 ### Web {-}
 
 - Dr. Love's [GitHub pages website](https://thomaselove.github.io/). 
-    + GitHub name is [THOMASELOVE](https://github.com/thomaselove)
-- [@ThomasELove](https://twitter.com/ThomasELove) on Twitter.
+    + His GitHub name is [THOMASELOVE](https://github.com/thomaselove).
+- His Twitter handle is [@ThomasELove](https://twitter.com/ThomasELove).
 
 ### A More Complete Biography {-}
 
 Hi. I am Thomas E. Love, Ph.D. and I have at least three different jobs.
 
-- I am Professor in the Departments of Medicine and Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.
+- I am a Professor in the Departments of Medicine and Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.
 - I direct [Biostatistics and Evaluation](http://chrp.org/biostatistics-evaluation/) at the [Center for Health Care Research & Policy](http://chrp.org/), which is a joint venture of CWRU and MetroHealth Medical Center.
 - For ten years, I was the (founding) Data Director for [Better Health Partnership](http://betterhealthpartnership.org/), an alliance of people who provide, pay for and receive care in Northeast Ohio. I now serve as Chief Data Scientist there.
 - I am a Fellow of the American Statistical Association, and have won numerous awards for my teaching and my research. 
