@@ -154,7 +154,9 @@ R and R Studio are two different things, but each is free software.
 
 Complete instructions, with a step-by-step walkthrough, are available at https://github.com/THOMASELOVE/431/blob/master/software-installation-431.md
 
-In brief, the steps you need to take are:
+If you need more help, you might look at [this terrific resource for Installing R and RStudio](http://stat545.com/block000_r-rstudio-install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which is worth your time, too, if you intend to use Git and GitHub. (Everyone will in 432.)
+
+In brief, the steps you need to take for 431 are:
 
 1. Download and install the latest version of R (version 3.4.1 or later) at http://cran.case.edu/ or https://cran.r-project.org/
 2, Download and install the preview version of R Studio (version 1.1.345 or later) at https://www.rstudio.com/products/rstudio/download/preview/
@@ -171,11 +173,22 @@ pkgs <- c("aplpack", "arm", "babynames", "boot", "car", "devtools", "Epi",
 install.packages(pkgs)
 ```
 
+## Getting Started with the Software, once you've installed
+
+1. Dr. Love's document "Working with Data in R Studio" might be a good first step. This is basically a demonstration of how to use these tools to actually analyze data.
+2. Dr. Love also prepared a downloadable template for your first few R Markdown attempts. The template is also described in the Working with Data in R Studio document.
+3. We can also recommend Chester Ismay's [Getting Used to R, RStudio and R Markdown](https://bookdown.org/chesterismay/rbasics/) as an introduction to the basics.
+4. Dr. Love will demonstrate the use of R, R Studio and R Markdown in class.
+5. [Dr. Love's Course Notes](https://thomaselove.github.io/431notes/) are a source of many examples.
+6. [Colors in R PDF](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) is also helpful.
+
 ## Why do we teach R, instead of SPSS or SAS or whatever, in 431-432? 
 
 Because it is by far the better choice for what we're trying to do, which is to help you become effective data scientists. And effective scientists, period. 
 
 # Texts
+
+## Dr. Love's Notes
 
 The main text is a set of Notes for the course, maintained by Dr. Love at https://thomaselove.github.io/431notes/. 
 
@@ -244,6 +257,39 @@ With regard to The Signal and the Noise, you can watch Nate discuss the book's i
     + For Part A, the value is in Chapter 4 and some of Chapters 14 and 21.
     + Part B - see Chapters 5-7.
     + Part C - consider Chapters 8-12.
+7. R Studio has great Cheat Sheets for Data Import, Data Transformation, Data Visualization, R Markdown and other topics at https://www.rstudio.com/resources/cheatsheets/
+
+# Videos, Podcasts and Other Resources
+
+## Videos to Learn R
+
+Lots of people like to watch a video to learn things. Here are some of the many R examples we've found useful.
+
+1. [Getting Started with R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/), from R Studio.
+2. The Datacamp Course called [R for the Intimidated](https://www.datacamp.com/community/open-courses/r-for-the-intimidated#gs.0vz4q34) is useful, too, especially for those feeling that way.
+3. [Getting Your Data into R](https://www.rstudio.com/resources/webinars/getting-your-data-into-r/), from R Studio.
+4. [Data Wrangling with R and RStudio](https://www.rstudio.com/resources/webinars/data-wrangling-with-r-and-rstudio/), also from R Studio.
+5. Also good is the six part series on [R Studio Essentials](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/), from R Studio.
+    + Parts 1 and 2 of each section (Programming, and Managing Change) may be of more interest.
+
+## Podcasts
+
+1. [Not So Standard Deviations: The Data Science Podcast](https://soundcloud.com/nssd-podcast) with Hilary Parker and Roger Peng talking about the latest in data science and data analysis in academia and industry.
+2. [The Effort Report](http://effortreport.libsyn.com/) with Elizabeth Matsui and Roger Peng talking about life in the academic trenches, telling it "like it is". Every graduate student in this course would benefit from listening.
+
+## Web Sites and Blogs
+
+1. [FiveThirtyEight](http://fivethirtyeight.com/)
+2. [Andrew Gelman's Blog: Statistical Modeling, Causal Inference and Social Science](http://andrewgelman.com/)
+3. [Kaiser Fung's Junkcharts Blog](http://junkcharts.typepad.com/)
+4. [Nathan Yau's Flowing Data Blog](http://flowingdata.com/)
+
+There are several curated lists of data science blogs online, for example, see https://github.com/rushter/data-science-blogs
+
+## Other Resources
+
+1. The `swirl` package in R can be a great help for people learning R programming and data science. Find out more about it at http://swirlstats.com/students.html
+2. UCLA's Institute for Digital Research and Education has some great [Data Analysis Examples](https://stats.idre.ucla.edu/other/dae/) using R (and other software.)
 
 # Dr. Love
 
