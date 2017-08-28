@@ -455,29 +455,32 @@ There are six main homework assignments scheduled. Most require straightforward 
 5. Assignment 5 is due Friday 2017-11-03 at noon.
 6. Assignment 6 is due Friday 2017-12-01 at noon.
 
-## More to come.
+## Where will I find the Assignments?
 
-More information is coming here.
+As they appear, the actual homework assignments will be found at https://github.com/THOMASELOVE/431homework
+
+## Where do I turn in the Assignments?
+
+You will turn in your Assignments using the Canvas system at https://canvas.case.edu. The course's primary listing is PQHS 431, but students in CRSP 431 and MPHP 431 should find the same information. The link to post your responses for Assignment 1 will be there by the first day of class. Subsequent assignments will appear after the deadline for the preceding assignment has passed.
 
 ## General Comments on Assignments
 
-1. You will turn in your Assignments using the Canvas system at https://canvas.case.edu. The course's primary listing is PQHS 431, but students in CRSP 431 and MPHP 431 should find the same information. The link to post your responses for Assignment 1 will be there by the first day of class. Subsequent assignments will appear after the deadline for the preceding assignment has passed.
-2. Each assignment will require you to analyze some data, and prepare a report using R Markdown. You will submit both your Markdown file, and an HTML, PDF or Word document built from that Markdown file. 
-3. Most assignments will require you to write an essay. Essays must be composed as part of your Markdown file, and thus included in your HTML/PDF/Word document. Do not edit the result of your R Markdown conversion into Word.
-4. When writing in English, use complete sentences, rather than bullet points.
-5. Clearly mark each Question in each Assignment. There is no need to repeat the question before answering it, although you are welcome to do so.
-6. Read and heed the advice of Jeff Leek in *The Elements of Data Analytic Style*. Chapters 5, 9, 10 and 13 of that book are especially relevant to our early assignments.
-7. You are welcome to discuss each Assignment with anyone, including Dr. Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and email 431-help at case dot edu. 
-8, In general, we do not provide answers to questions that we receive in the last 18 hours before an assignment is due. So don't leave anything until the last day. Allow time for computer problems.
-9. Late work is inappropriate for graduate school. Failure to turn in an assignment within one hour of the deadline (all deadlines are noon) will result in a very poor grade on the assignment if it is (eventually) turned in, and a zero (from which it is difficult to recover) if it is not turned in. Submission of timely, but partial work is far better than no submission at all.
-10. If an assignment is scheduled so that you will not be able to complete it in a timely fashion, it is your responsibility to email Dr. Love about the situation so he can evaluate it. Such requests should be sent as soon as possible, and at least 48 hours prior to the deadline for the assignment, except, of course, in the case of truly horrific circumstances.
-11. Grades on Assignments are usually available one week after the submission deadline.
+1. Each assignment will require you to analyze some data, and prepare a report using R Markdown. You will submit both your Markdown file, and an HTML, PDF or Word document built from that Markdown file. 
+2. Most assignments will require you to write an essay. Essays must be composed as part of your Markdown file, and thus included in your HTML/PDF/Word document. Do not edit the result of your R Markdown conversion into Word.
+3. When writing in English, use complete sentences, rather than bullet points.
+4. Clearly mark each Question in each Assignment. There is no need to repeat the question before answering it, although you are welcome to do so.
+5. Read and heed the advice of Jeff Leek in *The Elements of Data Analytic Style*. Chapters 5, 9, 10 and 13 of that book are especially relevant to our early assignments.
+6. You are welcome to discuss each Assignment with anyone, including Dr. Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and email 431-help at case dot edu. 
+7, In general, we do not provide answers to questions that we receive in the last 18 hours before an assignment is due. So don't leave anything until the last day. Allow time for computer problems.
+8. Late work is inappropriate for graduate school. Failure to turn in an assignment within one hour of the deadline (all deadlines are noon) will result in a very poor grade on the assignment if it is (eventually) turned in, and a zero (from which it is difficult to recover) if it is not turned in. Submission of timely, but partial work is far better than no submission at all.
+9. If an assignment is scheduled so that you will not be able to complete it in a timely fashion, it is your responsibility to email Dr. Love about the situation so he can evaluate it. Such requests should be sent as soon as possible, and at least 48 hours prior to the deadline for the assignment, except, of course, in the case of truly horrific circumstances.
+10. Grades on Assignments are usually available one week after the submission deadline.
 
 # Final Portfolio Project
 
 ## More to come.
 
-More information is coming here.
+Details on the project will be coming to you soon.
 
 # A Few Writing/Presenting Tips
 
