@@ -18,14 +18,17 @@ knitr::include_graphics("figures/cwru-stacked-logo-blue-no-tag.jpg")
 
 This is the Fall 2017 syllabus page for PQHS / CRSP / MPHP 431: Statistical Methods in Biological & Medical Sciences, Section 1, taught by Professor Thomas Love. The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM, generally in Robbins Room E321-323.
 
-- The course home page, with links to everything else you'll need, is at https://github.com/THOMASELOVE/431
+## Course Home Page {-}
+
+The course home page, with links to everything else you'll need, is at https://github.com/THOMASELOVE/431
 
 ## Getting Help! {-}
 
 To get help for anything related to the course, email **431-help at case dot edu**.
 
 - Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him at `thomas.love@case.edu`. He is usually available for 15-30 minutes both before and after class for drop-in conversations. His office is Wood WG-82 L.
-- TA office hours will be more extensive, and will begin immediately after Labor Day. A schedule will be announced soon.
+    + If you have any special concerns about the course, need special accommodations or any other issues for Dr. Love, please email or stop by before or after class.
+- TA office hours will be more extensive, and will begin on 2017-09-05. A schedule will be announced as soon as possible. Those office hours are held either in the computing lab (WG-56) or the student lounge (WG-67) on the ground floor of the Wood building, depending mostly on the TA's preference that day.
 
 # Course Description
 
@@ -58,6 +61,10 @@ Not much. Useful prior experience includes training/experience in statistics, co
 - Some students have lots of prior experience with biological and biomedical science, and know a lot of useful things in those areas which relate directly to our work. Others have zero experience in this area, and will learn a lot from their colleagues in this regard. We assume only that everyone is willing to learn, and put in some effort to do so.
 
 People take this course with a wide range of backgrounds and a common interest in using data effectively in research related to biology, health or medicine. There will be multiple people in the class who are years away from their last statistics class, and the vast majority of students will have no prior experience using R, or any meaningful recollection of using statistical software. The pace can be brisk at times, but all CWRU students who feel up to it are welcome, regardless of their field of study or prior experience.
+
+## What will we learn in 432?
+
+If you have specific questions about 432 not addressed here, just ask Dr. Love.
 
 # Class Schedule
 
@@ -176,12 +183,11 @@ install.packages(pkgs)
 
 ## Getting Started with the Software, once you've installed
 
-1. Dr. Love's document [Working with Data in R Studio](https://github.com/THOMASELOVE/431/blob/master/431_2017_working-with-data-in-R.md) might be a good first step. This is basically a demonstration of how to use these tools to actually analyze data.
-2. Dr. Love also prepared a downloadable template for your first few R Markdown attempts. The template is also described in the [Working with Data in R Studio](https://github.com/THOMASELOVE/431/blob/master/431_2017_working-with-data-in-R.md) document, and can be obtained by downloading the data and code for the course. Again, Data and code downloads are at https://github.com/THOMASELOVE/431data. Click on the green Clone or download button, and then select Download ZIP to obtain a Zip file of the latest materials.
+1. Dr. Love's document [Getting Started with R](https://github.com/THOMASELOVE/431/blob/master/431-getting-started-with-R.pdf) might be a good first step. This is basically a demonstration of how to use these tools to actually analyze data.
+2. Dr. Love also prepared a downloadable template for your first few R Markdown attempts. Get it by downloading the data and code for the course at https://github.com/THOMASELOVE/431data. Click on the green Clone or download button, and then select Download ZIP to obtain a Zip file of all posted materials.
 3. We can also recommend Chester Ismay's [Getting Used to R, RStudio and R Markdown](https://bookdown.org/chesterismay/rbasics/) as an introduction to the basics.
-4. Dr. Love will demonstrate the use of R, R Studio and R Markdown in class.
+4. Dr. Love will demonstrate the use of R, R Studio and R Markdown in class, starting with Class 2.
 5. [Dr. Love's Course Notes](https://thomaselove.github.io/431notes/) are a source of many examples.
-6. [Colors in R PDF](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) is also helpful.
 
 ## Why do we teach R, instead of SPSS or SAS or whatever, in 431-432? 
 
@@ -194,6 +200,8 @@ Because it is by far the better choice for what we're trying to do, which is to 
 The main text is a set of Notes for the course, maintained by Dr. Love at https://thomaselove.github.io/431notes/. 
 
 Although the Notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give 431 students in Section 1 (and Section 2) a set of common materials on which to draw during the course, providing a series of examples using R to work through issues that are likely to come up during the semester. The material will be updated regularly as the semester progresses.
+
+Slides from each session of the class are posted as .pdf files at https://github.com/THOMASELOVE/431slides
 
 ## Books To Purchase
 
@@ -452,15 +460,13 @@ There are six main homework assignments scheduled. Most require straightforward 
 1. [Assignment 1](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-1.md) is due Friday 2017-09-15 at noon.
 2. [Assignment 2](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-2.md) is due Friday 2017-09-22 at noon.
 3. [Assignment 3](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-3.md) is due Friday 2017-09-29 at noon.
-4. Assignment 4 is due Friday 2017-10-20 at noon.
+4. [Assignment 3](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-4.md) is due Friday 2017-10-20 at noon.
 5. Assignment 5 is due Friday 2017-11-03 at noon.
 6. Assignment 6 is due Friday 2017-12-01 at noon.
 
 ## Where will I find the Assignments?
 
-The actual homework assignments will be found at https://github.com/THOMASELOVE/431homework
-
-Some are there now, the rest will appear as the semester progresses.
+The actual homework assignments are found at https://github.com/THOMASELOVE/431homework
 
 ## Where do I turn in the Assignments?
 
@@ -483,9 +489,7 @@ The course's primary listing is PQHS 431, but students in CRSP 431 and MPHP 431 
 
 # Final Portfolio Project
 
-## More to come.
-
-Details on the project will be coming to you soon.
+Details on the final project portfolio will be made available in early September.
 
 # A Few Writing/Presenting Tips
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  28 AUG 2017 00:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  28 AUG 2017 23:34
 entering extended mode
 **431syllabus.tex
 (C:\Users\Thomas\Dropbox\2017-431\431syllabus\431syllabus.tex
@@ -880,19 +880,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [3])
 \tf@toc=\write4
-[4] <figures/cwru-stacked-logo-blue-no-tag.jpg, id=237, 253.9086pt x 189.5883pt
+[4] <figures/cwru-stacked-logo-blue-no-tag.jpg, id=242, 253.9086pt x 189.5883pt
 >
 File: figures/cwru-stacked-logo-blue-no-tag.jpg Graphic file (type jpg)
 <use figures/cwru-stacked-logo-blue-no-tag.jpg>
 Package pdftex.def Info: figures/cwru-stacked-logo-blue-no-tag.jpg used on inpu
 t line 109.
 (pdftex.def)             Requested size: 93.94858pt x 70.14946pt.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 119.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 131.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 134.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 133.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -904,7 +904,7 @@ o-tag.jpg>] [6
 ]
 Chapter 1.
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 215--221
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
@@ -917,7 +917,7 @@ Chapter 2.
 ]
 Chapter 3.
 
-Underfull \hbox (badness 4048) in paragraph at lines 722--724
+Underfull \hbox (badness 4048) in paragraph at lines 737--739
 []\T1/lmr/m/n/10 (+20) Complete in-struc-tions, with a step-by-step walk-throug
 h, are avail-able at []$https : / / github . com /
  []
@@ -935,44 +935,44 @@ Underfull \vbox (badness 1308) has occurred while \output is active []
 
 [19] [20]
 Chapter 6.
-<figures/Love-picB.jpg, id=427, 92.91856pt x 123.89143pt>
+<figures/Love-picB.jpg, id=429, 92.91856pt x 123.89143pt>
 File: figures/Love-picB.jpg Graphic file (type jpg)
 <use figures/Love-picB.jpg>
-Package pdftex.def Info: figures/Love-picB.jpg used on input line 1185.
+Package pdftex.def Info: figures/Love-picB.jpg used on input line 1197.
 (pdftex.def)             Requested size: 92.91832pt x 123.89111pt.
 [21
 
  <C:/Users/Thomas/Dropbox/2017-431/431syllabus/figures/Love-picB.jpg>] [22]
 Chapter 7.
-<figures/Claudia.png, id=464, 752.8125pt x 1339.0025pt>
+<figures/Claudia.png, id=466, 752.8125pt x 1339.0025pt>
 File: figures/Claudia.png Graphic file (type png)
 <use figures/Claudia.png>
-Package pdftex.def Info: figures/Claudia.png used on input line 1357.
+Package pdftex.def Info: figures/Claudia.png used on input line 1369.
 (pdftex.def)             Requested size: 155.01677pt x 275.72318pt.
 [23
 
  <C:/Users/Thomas/Dropbox/2017-431/431syllabus/figures/Claudia.png>] <figures/O
-mar.jpg, id=469, 2409.0pt x 3011.25pt>
+mar.jpg, id=471, 2409.0pt x 3011.25pt>
 File: figures/Omar.jpg Graphic file (type jpg)
 <use figures/Omar.jpg>
-Package pdftex.def Info: figures/Omar.jpg used on input line 1373.
+Package pdftex.def Info: figures/Omar.jpg used on input line 1385.
 (pdftex.def)             Requested size: 155.00989pt x 193.76236pt.
-<figures/Kara.jpg, id=470, 116.23425pt x 146.949pt>
+<figures/Kara.jpg, id=472, 116.23425pt x 146.949pt>
 File: figures/Kara.jpg Graphic file (type jpg)
 <use figures/Kara.jpg>
-Package pdftex.def Info: figures/Kara.jpg used on input line 1389.
+Package pdftex.def Info: figures/Kara.jpg used on input line 1401.
 (pdftex.def)             Requested size: 116.24103pt x 146.9576pt.
 [24 <C:/Users/Thomas/Dropbox/2017-431/431syllabus/figures/Omar.jpg> <C:/Users/T
 homas/Dropbox/2017-431/431syllabus/figures/Kara.jpg>] <figures/Rosie.jpg, id=47
-5, 326.72063pt x 493.0922pt>
+7, 326.72063pt x 493.0922pt>
 File: figures/Rosie.jpg Graphic file (type jpg)
 <use figures/Rosie.jpg>
-Package pdftex.def Info: figures/Rosie.jpg used on input line 1403.
+Package pdftex.def Info: figures/Rosie.jpg used on input line 1415.
 (pdftex.def)             Requested size: 155.01941pt x 233.95789pt.
-<figures/Bob.jpg, id=476, 237.88875pt x 357.335pt>
+<figures/Bob.jpg, id=478, 237.88875pt x 357.335pt>
 File: figures/Bob.jpg Graphic file (type jpg)
 <use figures/Bob.jpg>
-Package pdftex.def Info: figures/Bob.jpg used on input line 1419.
+Package pdftex.def Info: figures/Bob.jpg used on input line 1431.
 (pdftex.def)             Requested size: 155.02513pt x 232.86476pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -999,22 +999,22 @@ Chapter 11.
 ]
 Chapter 12.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1721
+Underfull \hbox (badness 10000) in paragraph at lines 1729--1731
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1734--1739
+Underfull \hbox (badness 10000) in paragraph at lines 1744--1749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1744--1746
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1756
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1748--1750
+Underfull \hbox (badness 10000) in paragraph at lines 1758--1760
 
  []
 
@@ -1024,25 +1024,25 @@ Chapter 13.
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 1902.
+(Font)              <8> on input line 1912.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 1902.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1905.
+(Font)              <6> on input line 1912.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1915.
 [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1905.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1915.
 (C:\Users\Thomas\Dropbox\2017-431\431syllabus\431syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1905.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1905.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1915.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1915.
 
 Package rerunfilecheck Info: File `431syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: DA1EC9A3206D4A40CAB05AFB14E12CAB;8108.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1905.
+(rerunfilecheck)             Checksum: 9207AC67EF054C0D4B4CFE7F15481482;8322.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1915.
  ) 
 Here is how much of TeX's memory you used:
- 12770 strings out of 493705
- 184300 string characters out of 3142148
- 294703 words of memory out of 3000000
- 15597 multiletter control sequences out of 15000+200000
+ 12772 strings out of 493705
+ 184342 string characters out of 3142148
+ 294750 words of memory out of 3000000
+ 15599 multiletter control sequences out of 15000+200000
  80983 words of font info for 116 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  32i,8n,35p,472b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1060,9 +1060,9 @@ lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 431syllabus.pdf (38 pages, 7614449 bytes).
+Output written on 431syllabus.pdf (38 pages, 7615187 bytes).
 PDF statistics:
- 695 PDF objects out of 1000 (max. 8388607)
+ 698 PDF objects out of 1000 (max. 8388607)
  198 named destinations out of 1000 (max. 500000)
- 16756 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 16764 words of extra memory for PDF output out of 17280 (max. 10000000)
 
