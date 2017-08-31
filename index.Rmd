@@ -360,13 +360,22 @@ The teaching assistants for 431 this year are Claudia Cabrera, Omar Alaber, Kara
 
 To contact the TAs, email `431-help at case dot edu`.
 
+## Office Hours for TAs
+
+Teaching Assistant Office Hours are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places if you need help. 
+
+The TAs hold hours at the following times.
+
+- Tuesdays and Thursdays from 11:30 - 12:30, 2:30 - 4:30 and 5:45 - 6:45, 
+- and also on Fridays from 4:30 - 5:30.
+
 ## Claudia Cabrera
 
 ```{r Claudia-fig, echo = FALSE, out.width = '33%'}
 knitr::include_graphics("figures/Claudia.PNG")
 ```
 
-Claudia Cabrera, MD, graduated from Monterrey Institute of Technology and Higher Education Medical School in 2012 and is in the Masters' Program in Clinical Research. Before coming to Case, Claudia worked in Bariatric Surgery for two years while also lecturing in Anatomy and Physiology at the same university from which she graduated in Mexico. She took 431 and 432 two years ago and thoroughly enjoyed learning Statistics, especially its applications to medicine. Claudia loves doing Clinical Research as well as learning and teaching. Currently her research is related to melanoma and head and neck surgery. In her free time, Claudia loves playing basketball, and reading. Claudia is the Lead TA for 431, Section 1, but all TAs work with both sections.
+Claudia Cabrera, MD, graduated from Monterrey Institute of Technology and Higher Education Medical School in 2012 and is in the Masters' Program in Clinical Research. Before coming to Case, Claudia worked in Bariatric Surgery for two years while also lecturing in Anatomy and Physiology at the same university from which she graduated in Mexico. She took 431 and 432 two years ago and thoroughly enjoyed learning Statistics, especially its applications to medicine. Claudia loves doing Clinical Research as well as learning and teaching. Currently her research is related to melanoma and head and neck surgery. In her free time, Claudia loves playing basketball, and reading. Claudia is the Lead TA for 431, Section 1, but all TAs work with both sections. 
 
 ## Omar Alaber
 
