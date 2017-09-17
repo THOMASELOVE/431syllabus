@@ -498,7 +498,7 @@ The course's primary listing is PQHS 431, but students in CRSP 431 and MPHP 431 
 
 # Final Portfolio Project
 
-Details on the final project portfolio will be made available in class on September 19.
+All materials and information related to the project are maintained at https://github.com/THOMASELOVE/431project and regular updates will appear there throughout the semester.
 
 # A Few Writing/Presenting Tips
 
