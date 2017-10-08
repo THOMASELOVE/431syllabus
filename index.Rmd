@@ -446,7 +446,7 @@ Students often ask how they can improve this part of their grade.  I cannot emph
 
 There are three quizzes scheduled. Each Quiz will be taken online, exclusively.
 
-1. Quiz 1 will be released Thursday 2017-10-05 by 5 PM and is due Monday 2017-10-09 at noon.
+1. Quiz 1 became available at https://goo.gl/vaACbW on Thursday 2017-10-05 and is due Monday 2017-10-09 at noon.
 2. Quiz 2 will be released Thursday 2017-11-09 by 5 PM and is due Monday 2017-11-13 at noon.
 3. Quiz 3 will be released Thursday 2017-12-07 by 5 PM and is due Monday 2017-12-11 at noon.
 
@@ -474,7 +474,7 @@ There are six main homework assignments scheduled. Most require straightforward 
 2. [Assignment 2](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-2.md) is due Friday 2017-09-22 at noon.
 3. [Assignment 3](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-3.md) is due Friday 2017-09-29 at noon.
 4. [Assignment 4](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-4.md) is due Friday 2017-10-20 at noon.
-5. Assignment 5 is due Friday 2017-11-03 at noon.
+5. [Assignment 5](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-5.md) is due Friday 2017-11-03 at noon.
 6. Assignment 6 is due Friday 2017-12-01 at noon.
 
 ## Where will I find the Assignments?

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  18 SEP 2017 15:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  8 OCT 2017 08:05
 entering extended mode
 **431syllabus.tex
 (C:\Users\Thomas\Dropbox\2017-431\431syllabus\431syllabus.tex
@@ -1007,22 +1007,22 @@ Chapter 11.
 ]
 Chapter 12.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1778--1780
+Underfull \hbox (badness 10000) in paragraph at lines 1779--1781
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1793--1798
+Underfull \hbox (badness 10000) in paragraph at lines 1794--1799
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1805
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1806
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1810
 
  []
 
@@ -1032,19 +1032,19 @@ Chapter 13.
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 1961.
+(Font)              <8> on input line 1962.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 1961.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1964.
+(Font)              <6> on input line 1962.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1965.
 [40]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1964.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1965.
 (C:\Users\Thomas\Dropbox\2017-431\431syllabus\431syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1964.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1964.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1965.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1965.
 
 Package rerunfilecheck Info: File `431syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: 2E98EF15439B13DF8757FE8B606F433F;8487.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1964.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1965.
  ) 
 Here is how much of TeX's memory you used:
  12786 strings out of 493705
@@ -1068,9 +1068,9 @@ lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 431syllabus.pdf (40 pages, 7618433 bytes).
+Output written on 431syllabus.pdf (40 pages, 7618810 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
+ 716 PDF objects out of 1000 (max. 8388607)
  201 named destinations out of 1000 (max. 500000)
  16772 words of extra memory for PDF output out of 17280 (max. 10000000)
 
