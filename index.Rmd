@@ -475,7 +475,7 @@ There are six main homework assignments scheduled. Most require straightforward 
 3. [Assignment 3](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-3.md) is due Friday 2017-09-29 at noon.
 4. [Assignment 4](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-4.md) is due Friday 2017-10-20 at noon.
 5. [Assignment 5](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-5.md) is due Friday 2017-11-03 at noon.
-6. Assignment 6 is due Friday 2017-12-01 at noon.
+6. [Assignment 6](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-6.md) is due Friday 2017-12-01 at noon.
 
 ## Where will I find the Assignments?
 
