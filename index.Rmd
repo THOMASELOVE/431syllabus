@@ -103,16 +103,16 @@ Class | Date | Topics | Readings
 -  | 2017-10-13 | Project Task A due at noon.
 15 | 2017-10-17 | The Analysis of Variance and Related Tools | Silver 7-8
 16 | 2017-10-19 | Multiple Comparisons | 
--  | 2017-10-20 | Assignment 4 due at noon.
 -  | 2017-10-23 | Project Task B due at noon.
 -- | *2017-10-24* | *CWRU Fall Break (no class)* | --
-17 | 2017-10-26 | Building Inferences for Rates | 
-18 | 2017-10-31 | Tables and Associations |
+17 | 2017-10-26 | Comparing Two Means - Set Up Survey | 
+-  | 2017-10-27 | Assignment 4 due at noon.
+18 | 2017-10-31 | ANOVA - Comparing Multiple Means |
 19 | 2017-11-02 | **Part C: Building Effective Models** | Silver through 11
 -  | 2017-11-03 | Assignment 5 due at noon.
-20 | 2017-11-07 | Linear Models with Continuous Predictors |
+20 | 2017-11-07 | Building Inferences for Rates |
 -  | 2017-11-08 | Project Task C due at noon.
-21 | 2017-11-09 | Linear Models with Discrete Predictors | Quiz 2 provided to you.
+21 | 2017-11-09 | Start Part C of course | Quiz 2 provided to you.
 -  | 2017-11-13 | Quiz 2 due at noon. |
 22 | 2017-11-14 | Estimation and Inference, Residual Analysis | Leek 7-8
 23 | 2017-11-16 | Prediction and Validation |
@@ -473,7 +473,7 @@ There are six main homework assignments scheduled. Most require straightforward 
 1. [Assignment 1](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-1.md) is due Friday 2017-09-15 at noon.
 2. [Assignment 2](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-2.md) is due Friday 2017-09-22 at noon.
 3. [Assignment 3](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-3.md) is due Friday 2017-09-29 at noon.
-4. [Assignment 4](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-4.md) is due Friday 2017-10-20 at noon.
+4. [Assignment 4](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-4.md) is due Friday 2017-10-27 at noon.
 5. [Assignment 5](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-5.md) is due Friday 2017-11-03 at noon.
 6. [Assignment 6](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-6.md) is due Friday 2017-12-01 at noon.
 
