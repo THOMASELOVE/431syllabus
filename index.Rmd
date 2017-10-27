@@ -109,20 +109,20 @@ Class | Date | Topics | Readings
 -  | 2017-10-27 | Assignment 4 due at noon.
 18 | 2017-10-31 | ANOVA - Comparing Multiple Means |
 19 | 2017-11-02 | **Part C: Building Effective Models** | Silver through 11
--  | 2017-11-03 | Assignment 5 due at noon.
 20 | 2017-11-07 | Building Inferences for Rates |
 -  | 2017-11-08 | Project Task C due at noon.
-21 | 2017-11-09 | Start Part C of course | Quiz 2 provided to you.
+-  | 2017-11-09 | Assignment 5 due at noon.
+21 | 2017-11-09 | Conclude Part B of course | Quiz 2 provided to you.
 -  | 2017-11-13 | Quiz 2 due at noon. |
-22 | 2017-11-14 | Estimation and Inference, Residual Analysis | Leek 7-8
-23 | 2017-11-16 | Prediction and Validation |
+22 | 2017-11-14 | Begin Part C of course | Leek 7-8
+23 | 2017-11-16 | Estimation and Inference |
 -  | 2017-11-20 | Project Task D due at noon.
 -- | *2017-11-21* | *Class is cancelled.* | --
 -- | *2017-11-23* | *CWRU Thanksgiving Break (no class)* | --
-24 | 2017-11-28 | More Regression Content | Silver 12
-25 | 2017-11-30 | Even More Regression Content |
+24 | 2017-11-28 | Residual and Influence Analysis | Silver 12
+25 | 2017-11-30 | Prediction and Validation |
 -  | 2017-12-01 | Assignment 6 due at noon.
-26 | 2017-12-05 | Still More Regression Content | Silver finish book
+26 | 2017-12-05 | More Modeling Content | Silver finish book
 27 | 2017-12-07 | Looking Back, and Forward | Quiz 3 provided to you.
 -  | 2017-12-11 | Quiz 3 due at noon. | --
 -  | 2017-12-13 | Project Task E due at noon.
