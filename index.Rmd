@@ -113,7 +113,7 @@ Class | Date | Topics | Readings
 -  | 2017-11-08 | Project Task C due at noon.
 -  | 2017-11-09 | Assignment 5 due at noon.
 21 | 2017-11-09 | Conclude Part B of course | Quiz 2 provided to you.
--  | 2017-11-13 | Quiz 2 due at noon. |
+-  | 2017-11-14 | Quiz 2 due at 8 AM. |
 22 | 2017-11-14 | Begin Part C of course | Leek 7-8
 23 | 2017-11-16 | Estimation and Inference |
 -  | 2017-11-20 | Project Task D due at noon.
@@ -447,7 +447,7 @@ Students often ask how they can improve this part of their grade.  I cannot emph
 There are three quizzes scheduled. Each Quiz will be taken online, exclusively.
 
 1. Quiz 1 became available at https://goo.gl/vaACbW on Thursday 2017-10-05 and is due Monday 2017-10-09 at noon.
-2. Quiz 2 will be released Thursday 2017-11-09 by 5 PM and is due Monday 2017-11-13 at noon.
+2. Quiz 2 will be released Thursday 2017-11-09 by 5 PM and is due Tuesday 2017-11-14 at 8 AM.
 3. Quiz 3 will be released Thursday 2017-12-07 by 5 PM and is due Monday 2017-12-11 at noon.
 
 - **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, and in any case, at least a week before a Quiz is released.
