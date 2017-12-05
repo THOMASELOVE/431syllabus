@@ -124,7 +124,7 @@ Class | Date | Topics | Readings
 -  | 2017-12-04 | Assignment 6 due at noon.
 26 | 2017-12-05 | More Modeling Content | Silver finish book
 27 | 2017-12-07 | Looking Back, and Forward | Quiz 3 provided to you.
--  | 2017-12-11 | Quiz 3 due at noon. | --
+-  | 2017-12-12 | Quiz 3 due at noon. | --
 -  | 2017-12-13 | Project Task E due at noon.
 
 Final Portfolio Presentations will be held on
@@ -448,7 +448,7 @@ There are three quizzes scheduled. Each Quiz will be taken online, exclusively.
 
 1. Quiz 1 became available at https://goo.gl/vaACbW on Thursday 2017-10-05 and is due Monday 2017-10-09 at noon.
 2. Quiz 2 will be released Thursday 2017-11-09 by 5 PM and is due Tuesday 2017-11-14 at 8 AM.
-3. Quiz 3 will be released Thursday 2017-12-07 by 5 PM and is due Monday 2017-12-11 at noon.
+3. Quiz 3 will be released Thursday 2017-12-07 by 5 PM and is due Tuesday 2017-12-12 at noon.
 
 - **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, and in any case, at least a week before a Quiz is released.
 - A test survey will be completed in September to ensure that you can use the quiz software to submit your results.
@@ -475,7 +475,7 @@ There are six main homework assignments scheduled. Most require straightforward 
 3. [Assignment 3](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-3.md) is due Friday 2017-09-29 at noon.
 4. [Assignment 4](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-4.md) is due Friday 2017-10-27 at noon.
 5. [Assignment 5](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-5.md) is due Thursday 2017-11-09 at noon.
-6. [Assignment 6](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-6.md) is due Friday 2017-12-01 at noon.
+6. [Assignment 6](https://github.com/THOMASELOVE/431homework/blob/master/431-2017_assignment-6.md) is due Monday 2017-12-04 at noon.
 
 ## Where will I find the Assignments?
 
